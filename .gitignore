@@ -1,3 +1,4 @@
 *.shp
 *.ods
 .DS_Store
+.ipynb_checkpoints
